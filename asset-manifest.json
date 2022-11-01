@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/orderBoxProj/static/css/main.b031a324.css",
+    "main.js": "/orderBoxProj/static/js/main.74b51d18.js",
+    "static/media/meals.jpg": "/orderBoxProj/static/media/meals.46a522b40fd53b469b50.jpg",
+    "index.html": "/orderBoxProj/index.html",
+    "main.b031a324.css.map": "/orderBoxProj/static/css/main.b031a324.css.map",
+    "main.74b51d18.js.map": "/orderBoxProj/static/js/main.74b51d18.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b031a324.css",
+    "static/js/main.74b51d18.js"
+  ]
+}
